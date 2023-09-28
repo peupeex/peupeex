@@ -10,6 +10,8 @@
 📩 Email: <a href="mailto:pedrograca020@gmail.com">pedrograca020@gmail.com
 </li>
 
+<h2> </h2>
+
 
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=peupeex&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peupeex)](https://github.com/peupeex/github-readme-stats&theme=radical)
