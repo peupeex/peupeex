@@ -14,7 +14,6 @@
 
 
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=peupeex&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peupeex)](https://github.com/peupeex/github-readme-stats&theme=radical)
 
 
 ### Tecnologias que eu trabalho:
