@@ -4,7 +4,7 @@
 👨‍🎓 Cursando Ciência da Computação na Uniruy Wyden
 </li>
 <li>
-💻 Estudando Python e C
+💻 Estudando JAVA
 </li>
 <li>
 📩 Email: <a href="mailto:pedrograca020@gmail.com">pedrograca020@gmail.com
